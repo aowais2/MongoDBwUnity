@@ -1,7 +1,7 @@
 # MongoDB with Unity
 
 The repo is a step by step procedure to understand how you can save data from your Unity game to a MongoDB VM that is set up online, i.e. not a local DB on your own computer.
-This set up has been tested with mainly WebGL in mind, and therefore works for WebGL files you might be serving through MongoDB/Github any other service.
+This set up has been tested with mainly WebGL in mind, and therefore works for WebGL files you might be serving through MongoDB/Github/Any other service.
 
 ## In Unity:
 
